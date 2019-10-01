@@ -143,7 +143,7 @@ item.resynth.mobproduceDragonsBreath.name=龙息鳞茎
 #     MOD 作物    #
 ###################
 
-#工业 2
+#应用能源 2
 item.resynth.seedAe2Quartz.name=赛特斯石英晶体种子
 tile.resynth.plantAe2Quartz.name=赛特斯石英晶体作物
 item.resynth.produceAe2Quartz.name=赛特斯石英晶体碎片
