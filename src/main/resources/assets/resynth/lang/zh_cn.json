@@ -106,6 +106,14 @@
   "item.resynth.metallic_seeds_sponge":                     "海绵种子",
   "block.resynth.metallic_organic_ore_sponge":              "有机海绵",
 
+  "block.resynth.metallic_plant_gravel":                    "沙砾作物",
+  "item.resynth.metallic_seeds_gravel":                     "沙砾种子",
+  "block.resynth.metallic_organic_ore_gravel":              "有机沙砾",
+
+  "block.resynth.metallic_plant_netherrack":                "地狱岩作物",
+  "item.resynth.metallic_seeds_netherrack":                 "地狱岩种子",
+  "block.resynth.metallic_organic_ore_netherrack":          "有机地狱岩",
+
   "block.resynth.biochemical_plant_ender_pearl":            "末影珍珠作物",
   "item.resynth.biochemical_seeds_ender_pearl":             "末影珍珠种子",
   "item.resynth.biochemical_bulb_ender_pearl":              "末影珍珠鳞茎",
@@ -321,6 +329,30 @@
   "block.resynth.metallic_plant_bno_aluminium":                         "铝作物",
   "item.resynth.metallic_seeds_bno_aluminium":                          "铝种子 (基础下界矿石)",
   "block.resynth.metallic_organic_ore_bno_aluminium":                   "有机铝矿石 (基础下界矿石)",
+  
+  "block.resynth.metallic_plant_mekanism_osmium":                   "锇作物",
+  "item.resynth.metallic_seeds_mekanism_osmium":                    "锇种子 (通用机械)",
+  "block.resynth.metallic_organic_ore_mekanism_osmium":             "有机锇矿石 (通用机械)",
+
+  "block.resynth.metallic_plant_mekanism_copper":                   "铜作物",
+  "item.resynth.metallic_seeds_mekanism_copper":                    "铜种子 (通用机械)",
+  "block.resynth.metallic_organic_ore_mekanism_copper":             "有机铜矿石 (通用机械)",
+
+  "block.resynth.metallic_plant_mekanism_tin":                      "锡作物",
+  "item.resynth.metallic_seeds_mekanism_tin":                       "锡种子 (通用机械)",
+  "block.resynth.metallic_organic_ore_mekanism_tin":                "有机锡矿石 (通用机械)",
+
+  "block.resynth.crystalline_plant_mysticalagriculture_inferium":       "精华作物",
+  "item.resynth.crystalline_seeds_mysticalagriculture_inferium":        "精华种子 (神秘农业)",
+  "item.resynth.crystalline_shard_mysticalagriculture_inferium":       "精华碎片 (神秘农业)",
+
+  "block.resynth.crystalline_plant_mysticalagriculture_prosperity":     "活化水晶作物",
+  "item.resynth.crystalline_seeds_mysticalagriculture_prosperity":      "活化水晶种子 (神秘农业)",
+  "item.resynth.crystalline_shard_mysticalagriculture_prosperity":     "活化水晶碎片 (神秘农业)",
+
+  "block.resynth.crystalline_plant_mysticalagriculture_soulium":        "离魂作物",
+  "item.resynth.crystalline_seeds_mysticalagriculture_soulium":         "离魂种子 (神秘农业)",
+  "item.resynth.crystalline_shard_mysticalagriculture_soulium":        "离魂碎片 (神秘农业)",
 
   "____COMMENT": "---工具提示----",
   "tooltip.block.resynth.mineral_stone":
